@@ -1,0 +1,11 @@
+D:\vs source\car\car\bin\Debug\car.exe.config
+D:\vs source\car\car\bin\Debug\car.exe
+D:\vs source\car\car\bin\Debug\car.pdb
+D:\vs source\car\car\obj\Debug\car.csproj.AssemblyReference.cache
+D:\vs source\car\car\obj\Debug\car.csproj.SuggestedBindingRedirects.cache
+D:\vs source\car\car\obj\Debug\car.Form1.resources
+D:\vs source\car\car\obj\Debug\car.Properties.Resources.resources
+D:\vs source\car\car\obj\Debug\car.csproj.GenerateResource.cache
+D:\vs source\car\car\obj\Debug\car.csproj.CoreCompileInputs.cache
+D:\vs source\car\car\obj\Debug\car.exe
+D:\vs source\car\car\obj\Debug\car.pdb
